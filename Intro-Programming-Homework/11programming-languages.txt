@@ -1,0 +1,33 @@
+// Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages. 
+// How similar are they to C#? How do they differ from C#?
+// Write in a text file called  “programming-languages.txt”  at least five languages along with 2-3 sentences about each of them. Use English.
+
+
+Some of the most popular programming languages are the C-like ones. They include C, C++, C#, Objective-C and also Java, JavaScript, PHP, Python, etc. All of them are widely used nowadays for different purposes. Let's take a look at some of them:
+
+
+C and C++
+
+C is a high-level and general purpose programming language that is ideal for developing firmware or portable applications. It is very fast, due to its low level, so it's primarily used for drivers and OSs. Originally intended for writing system software, C was developed at Bell Labs by Dennis Ritchie for the Unix Operating System (OS) in the early 1970s. C has a compiler for most computer systems and has influenced many popular languages like C++, D, Java, JavaScript, C#, Objective-C, Perl, PHP, Python, etc. 
+
+C++ is a compiled, multi-paradigm and object-oriented language written as an update to C in 1979. It is mainly used in the game development sector. Both C and C++ present a lower level of abstraction that provides a breadth of access to underlying machine functionality that are not necessarily exposed with other languages.
+
+C# provides a managed memory model that adds a higher level of abstraction that adds convenience and improves development times, but complicates access to lower level APIs and makes specialized performance requirements problematic. The syntax of C# is much simpler than C or C++ and it is much, much easier for learning.
+
+
+Objective-C and Swift
+
+Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. It was originally developed in the early 1980s. Objective-C is a thin layer on top of C, and is often called a "strict superset" of C, meaning that it should be possible to compile any C program with an Objective-C compiler and to freely include C code within an Objective-C class. Objective-C's features often allow for flexible, and often easy, solutions to programming issues. Until Swift was introduced in 2014, Objective-C was the main programming language used by Apple for the OS X and iOS operating systems.
+
+Swift is characterized as "Objective-C without the C". It is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products. Swift is intended to be less prone to errors than Objective-C and it can express the same idea with a smaller quantity of code. It is built with the LLVM compiler framework included in Xcode 6, and uses the Objective-C runtime, allowing C, C++, Objective-C and Swift code to run within a single program.
+
+Swift is a high-level language that is a lot like C# and presents itself very well compared to it. But the interesting part is that using Xamarin you can develop iOS and OSX apps using C#.
+
+
+C# and Java
+
+C# is high level programming language developed by Microsoft. It comes under .NET framework. C# is simple, modern, general-purpose, object-oriented, rich and supports various computing devices. C# can be used for creating traditional Windows client applications, XML Web services, distributed components, client-server applications, database applications, and much, much more. An intersting fact is that the name "C sharp" was inspired by musical notation where a sharp indicates that the written note should be made a semitone higher in pitch. This is similar to the language name of C++, where "++" indicates that a variable should be incremented by 1. The sharp symbol also resembles a ligature of four "+" symbols (in a two-by-two grid), further implying that the language is an increment of C++.
+
+Java is considered to be the best choice for very big projects, in which many programmers are involved. Due to the magic of ‘bytecode‘ this language bypass the dependencies of platform and can be used at almost any computing platform.
+
+Java and C# are similar programming languages that are statically, strongly, and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind and both use garbage-collection. The main difference between Java and C# is that Java can run on any operating system, while C# requires Windows and .Net framework.
